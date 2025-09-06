@@ -410,7 +410,7 @@ services:
       file: commons/base.yaml
       service: sync-service
   process:
-    image: alfresco/process-services:24.1.0
+    image: alfresco/process-services:25.2.1
     ports:
       - 8094:8080
     depends_on:
@@ -428,7 +428,7 @@ services:
     #profiles:
     #  - disabled
   processadmin:
-    image: alfresco/process-services-admin:24.1.0
+    image: alfresco/process-services-admin:25.2.1
     environment:
       - ACTIVITI_ADMIN_EXTERNAL_PROPERTIES_FILE=activiti-admin.properties
     volumes:
