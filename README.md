@@ -28,7 +28,8 @@ Now execute the run.sh script which present a menu. pick the option that best fi
 
 Once everything loads the landing page will launch automatically
 
-<img width="730" alt="image" src="https://github.com/user-attachments/assets/f03d480b-7be3-47f9-86ed-2398113792d4" />
+<img width="983" height="543" alt="image" src="https://github.com/user-attachments/assets/f5344afa-b171-4ec7-a2e9-61a0ef36c2a7" />
+
 
 Login to Share with demo/demo. Also you can login to process services with demo/demo; however, administrative functions will require login with admin@example.com/admin (such as applying a license). **warning: you will have to configure process admin with the rest endpoint for process services. The server should be http://process and the user/pass should be demo/demo**
 
