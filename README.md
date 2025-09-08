@@ -31,6 +31,6 @@ Once everything loads the landing page will launch automatically
 <img width="983" height="543" alt="image" src="https://github.com/user-attachments/assets/f5344afa-b171-4ec7-a2e9-61a0ef36c2a7" />
 
 
-Login to Share with demo/demo. Also you can login to process services with demo/demo; however, administrative functions will require login with admin@example.com/admin (such as applying a license). **warning: you will have to configure process admin with the rest endpoint for process services. The server should be http://process and the user/pass should be demo/demo**
+Login to Share with demo/demo. Also you can login to process services with demo/demo; however, administrative functions will require login with admin@example.com/admin (such as applying a license). The process admin rest api endpoint is already configured so nothing to do there.
 
 There are amps and jars ready to go but they need to be installed (I didn't bootstrap in order to keep things clean as possible on initial run). select the "install amps and jars" option on the run.sh menu and you will be able to execute http requests from a javascript declared in a rule and the option to select the Hyland theme in administration
