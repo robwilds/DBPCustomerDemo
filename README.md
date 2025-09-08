@@ -22,6 +22,8 @@ Out of Process Audit is configured to send audit data to elastic
 
 # Getting started
 
+You will need access to quay.io. Please contact Hyland for this information.
+
 After pulling this repo, perform chmod +x \*.sh at the root of the project to be sure you can run all sh scripts
 
 Now execute the run.sh script which present a menu. pick the option that best fits your intent. When running directly after a pull from github, select start (option 1).
