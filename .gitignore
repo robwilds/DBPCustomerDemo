@@ -1,3 +1,6 @@
+#ignore alfresco license file
+*.lic
+
 # General
 .DS_Store
 __MACOSX/
